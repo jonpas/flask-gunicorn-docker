@@ -2,7 +2,7 @@
 
 Docker image with only Flask and Gunicorn, to be used with a reverse proxy such as Traefik. No reverse proxy is included in the image.
 
-Currently Alpine Python 3.11 image. _If there is interest for a bigger matrix of tags, distributions or other publishing platforms, open an issue._
+Currently Alpine Python 3.12 image. _If there is interest for a bigger matrix of tags, distributions or other publishing platforms, open an issue._
 
 
 ## Setup
